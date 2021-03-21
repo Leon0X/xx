@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       x
 // @match        https://ypt.jxddkeji.com/*
+// @updateURL    https://raw.githubusercontent.com/Leon0X/xx/main/sc_user.js
 // @grant        none
 // @charset		 UTF-8
 // ==/UserScript==
