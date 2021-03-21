@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         xx
 // @namespace    xx_script
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       x
 // @match        https://ypt.jxddkeji.com/*
